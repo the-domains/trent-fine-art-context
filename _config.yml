@@ -1,0 +1,28 @@
+name: Trent Fine Art Context
+favicon: null
+layout_spectrum: 0.3358545603696257
+typography_spectrum: 0.9957465738989413
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.30178722320124507
+  lightness: 0.5769714028574526
+  saturation: 0.9716632573399693
+  rhythmicContrast: 0.10614359122700989
+purpose: []
